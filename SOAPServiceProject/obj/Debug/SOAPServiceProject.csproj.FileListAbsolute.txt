@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\SOAPServiceProject\SOAPServiceProject\bin\Debug\SOAPServiceProject.dll.config
+C:\Users\pc\source\repos\SOAPServiceProject\SOAPServiceProject\bin\Debug\SOAPServiceProject.dll
+C:\Users\pc\source\repos\SOAPServiceProject\SOAPServiceProject\bin\Debug\SOAPServiceProject.pdb
+C:\Users\pc\source\repos\SOAPServiceProject\SOAPServiceProject\obj\Debug\SOAPServiceProject.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\SOAPServiceProject\SOAPServiceProject\obj\Debug\SOAPServiceProject.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SOAPServiceProject\SOAPServiceProject\obj\Debug\SOAPServiceProject.dll
+C:\Users\pc\source\repos\SOAPServiceProject\SOAPServiceProject\obj\Debug\SOAPServiceProject.pdb
